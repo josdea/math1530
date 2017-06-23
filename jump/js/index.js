@@ -3,7 +3,7 @@
 var app = angular.module("jumpPage", []);
 app.controller("myCtrl", function ($scope) {
   $scope.jumppage = {
-    "pageTitle": "Math 1530 Jump Page",
+    "pageTitle": "Math 1530 Jump Page Sandbox Josh",
     "units": [
       {
         "title": "Unit 1",
